@@ -15,8 +15,8 @@ public class binarysearch {
         return -1;
     }
     public static void main(String[] args) {
-        int numbers[] = { 2,4,6,8,10,12,14,16};
-        int key = 6;
+        int numbers[] = { 2,4,6,8,10,79,14,16};
+        int key = 79;
         System.out.println("key found at index :" + binarySearch(numbers,key));
     }
 }
