@@ -29,6 +29,6 @@ public class search{
             }
             System.out.println();
         }
-        searchElement(matrix,5);
+        searchElement(matrix,6);
     }
 }
