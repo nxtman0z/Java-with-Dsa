@@ -19,9 +19,9 @@ public class searchinsorted {
     public static void main(String[] args) {
         int matrix[][] = {{10,20,30,40},
                         {15,25,35,45},
-                        {27,29,37,48},
+                        {29,28,37,48},
                         {32,33,39,50}};
-        int key = 29;
+        int key = 25;
         staircaseSearch(matrix,key);
     }
 }
