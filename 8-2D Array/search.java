@@ -22,7 +22,7 @@ public class search{
             }
         }
 
-        System.out.println("2D array is :");
+        System.out.println("2D array is this:");
         for(int i =0;i<n;i++){
             for(int j =0;j<m;j++){
                 System.out.print(matrix[i][j]);
