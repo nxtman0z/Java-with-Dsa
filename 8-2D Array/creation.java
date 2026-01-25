@@ -1,7 +1,7 @@
 import java.util.*;
 public class creation{
     public static void main(String[] args) {
-        int matrix[][] = new int[4][4];
+        int matrix[][] = new int[5][5];
         Scanner sc = new Scanner(System.in);
         int n = matrix.length,m = matrix[0].length;
         for(int i = 0;i<n;i++){
